@@ -6,5 +6,3 @@ Hello you need hashlist? Just Use  clack catmix
 
 3 - Get your hashlist 
 
-![Uploading ScreenShot.png…]()
-
